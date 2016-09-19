@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logicalClassDesignerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" dslVersion="1.0.0.0" Id="5c7ee77c-4f1e-4108-8ac2-3a7d13202fbe" name="EvaluateProject" linkedPackageId="87029d65-6a08-4198-b43b-729f08ca0c52" xmlns="http://schemas.microsoft.com/dsltools/LogicalClassDesigner">
+  <profileInstances>
+    <packageHasProfileInstances Id="c3303a46-a1aa-44c5-a394-af3ef79771e9">
+      <profileInstance Id="af76433f-5f20-48d7-b9f6-c0abf4f94aef" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="879ce33a-6be5-4e7b-aad8-51ba76d7f29b">
+      <profileInstance Id="dc5186d7-d0da-478c-bda7-6e5910c522f1" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="25b4744b-8897-4481-b151-aac7be42133c" name="UserInfo" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="bfd8d578-c9e4-4330-a7a7-f21f2f8e7d08" />
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="5fef5011-39b1-46ab-b71e-5257078f074a" name="Department" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="77844c4d-2909-41e0-9c29-7eeb5ffb986a" />
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="3ac6be52-bb5c-4e04-8425-11c57c3059f5" name="PositionLevel" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="bc0a964b-333b-4ca7-9767-377cf9f8e9c0" />
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="840f0ee4-6d80-423c-868b-92cf4b7ce4cd" name="TraniningEvaluateInfo" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="baa0e8a6-495d-493a-ad5b-91bfa5ee471f" />
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="b4f29b68-ed8f-4e7f-a4de-4406f9fd7e42" name="ProfessionInfo" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="1a966600-4f98-4842-8532-20247a3d3641" />
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="f1a74c4c-34c4-43f0-8225-d3cf06971a23" name="SeaTrainingInfo" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="6e9a4dfc-0dda-49e4-b7e5-f210ce45dcd3" />
+      </class>
+    </logicalClassDesignerModelHasTypes>
+  </packagedElements>
+  <package Id="87029d65-6a08-4198-b43b-729f08ca0c52" name="EvaluateProject">
+    <elementDefinition Id="d14b2b92-5d93-42c2-91be-50dd6b647b5f" />
+  </package>
+</logicalClassDesignerModel>
